@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1443080660.svg)](https://doi.org/10.5281/zenodo.23888524)
+
 # ProMERGE
 
 ProMERGE learns protein embeddings across data modalities and biological
